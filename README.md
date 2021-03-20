@@ -44,7 +44,8 @@ Example api project using flask-restful and jinja2 templating.
 
 # localhost:5000/user == A form, which accepts 3 entries and then appends them to already defined list of entries.
 
-# localhost:5000/result == Once the submit button of /user endpoint is clicked there result will show in here -> Request will be redirected to this page.
+# localhost:5000/result == Once the submit button of /user endpoint is clicked there result will show in here 
+#-> Request will be redirected to this page.
 
 ```
 
