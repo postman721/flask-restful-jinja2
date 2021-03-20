@@ -13,9 +13,9 @@
 #Setup the virtual environment.
 ###############################
  
-# python3 -m venv env requests
+# python3 -m venv env 
 # source env/bin/activate
-# pip3 install flask-restful
+# pip3 install flask-restful requests
 
 #Run the api.py.
 ####################
