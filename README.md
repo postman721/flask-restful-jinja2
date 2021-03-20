@@ -11,7 +11,7 @@ Example api project using flask-restful and jinja2 templating.
 #Dependencies.
 ###################
 
-# sudo apt-get install -t apt-get install python3-venv python3-pip curl libgcc1-dbg
+# sudo apt-get install -y apt-get install python3-venv python3-pip curl libgcc1-dbg
 
 # Place api materials into folder and cd into that folder.
 
