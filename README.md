@@ -1,7 +1,53 @@
 # flask-restful-jinja2
 
 
- Example api project using flask-restful and jinja2 templating. 
+Example api project using flask-restful and jinja2 templating. 
+
+```
+########################
+#Installation and setup.
+########################
+
+#Dependencies.
+###################
+
+# sudo apt-get install -t apt-get install python3-venv python3-pip curl libgcc1-dbg
+
+# Place api materials into folder and cd into that folder.
+
+#Setup the virtual environment.
+###############################
+ 
+# python3 -m venv env requests
+# source env/bin/activate
+# pip3 install flask-restful
+
+#Run the api.py.
+####################
+
+# python3 api.py
+
+
+####################
+#Endpoints
+#####################
+
+# localhost:5000 == Hello World.
+
+# localhost:5000/distributions == Distribution list.
+
+# localhost:5000/ubuntus == Ubuntu list.
+
+#########################
+#Jinja2 templating
+#########################
+
+# localhost:5000/user == A form, which accepts 3 entries and then appends them to already defined list of entries.
+
+# localhost:5000/result == Once the submit button of /user endpoint is clicked there result will show in here -> Request will be redirected to this page.
+
+```
+
 
 Flask-restful api functionalities as screenshots
 
