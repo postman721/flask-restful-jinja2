@@ -96,8 +96,7 @@ def result():
       result = request.form
       return render_template("user_action.html",result = result)
 
-
-                 
+#This is flask-restful style of declaring paths.    
 api.add_resource(Hello, '/')
 api.add_resource(Distributions, '/distributions')
 
