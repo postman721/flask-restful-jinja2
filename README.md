@@ -66,7 +66,7 @@ Flask-restful api functionalities as screenshots
 ![3](https://user-images.githubusercontent.com/29865797/111880025-b1cab280-89b1-11eb-9d71-4a6336a5b964.png)
 
 
-![4](https://user-images.githubusercontent.com/29865797/111880028-b42d0c80-89b1-11eb-93fb-45757cb36384.png)
+![41](https://user-images.githubusercontent.com/29865797/111881877-4be32880-89bb-11eb-8358-063cca433a71.png)
 
 
 ![5](https://user-images.githubusercontent.com/29865797/111880033-b68f6680-89b1-11eb-9bda-676744a91b5f.png)
