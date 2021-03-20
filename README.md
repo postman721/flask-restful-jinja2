@@ -3,6 +3,11 @@
 
 Example api project using flask-restful and jinja2 templating. 
 
+Notice that some package names may be different depending on your distribution. 
+
+Also, some python pip modules may need to be added OR could be omitted depending on your python3 version/environment.
+
+
 ```
 ########################
 #Installation and setup.
