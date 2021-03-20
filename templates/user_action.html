@@ -1,0 +1,21 @@
+{# This is jinja2 templated listing to be populated. #}
+{# Notice the for loop here. Keys are predefined entries, values are the new/incoming user entries #}
+
+<!doctype html>
+   {% for key, value in result.items() %}
+   <ul>
+    <li>
+       {{ key }}
+    </li>
+   </ul>
+   {% endfor %}
+
+   {% for key, value in result.items() %}
+   <ul>
+    <li>
+       {{ value }}
+    </li>
+   </ul>
+   {% endfor %}
+   
+
