@@ -20,7 +20,7 @@ Example api project using flask-restful and jinja2 templating.
  
 # python3 -m venv env 
 # source env/bin/activate
-# pip3 install flask-restful requests
+# pip3 install flask flask-restful requests
 
 #Run the api.py.
 ####################
